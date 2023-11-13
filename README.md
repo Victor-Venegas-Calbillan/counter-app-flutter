@@ -1,6 +1,7 @@
-# hello_world_app
+# Counter App
 
 A new Flutter project.
+basic proyect to learn flutter
 
 ## Getting Started
 
